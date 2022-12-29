@@ -37,5 +37,4 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: gleidsonfagno](https://img.shields.io/badge/-gleidsonfagno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gleidson-fagno-1510a91ab)
-[![Gmail gleidsonfagner838@gmail.com](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto: gleidsonfagner838@gmail.com)](mailto:SEU-EMAIL)
 [![GitHub: gleidsonfagno]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/gleidsonfagno)
