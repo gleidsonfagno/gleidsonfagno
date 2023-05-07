@@ -1,5 +1,5 @@
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando curso **Desenvolvedor Full Stack Python** na <a href="https://ebaconline.com.br/">EBAC Online</a>.
