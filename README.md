@@ -5,10 +5,6 @@
 - 🎓 Atualmente, estou investindo no meu crescimento profissional com o curso **Desenvolvedor Full Stack Python** na [EBAC Online](https://ebaconline.com.br/), onde estou aprimorando minhas habilidades para criar aplicações web de ponta a ponta.
 - 🌱 Minha sede de conhecimento me impulsiona a explorar continuamente as últimas tecnologias, incluindo **HTML, CSS, JavaScript, Flutter e Python**, enquanto desenvolvo projetos significativos para consolidar minha experiência.
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando curso **Desenvolvedor Full Stack Python** na <a href="https://ebaconline.com.br/">EBAC Online</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **HTML, CSS, JAVASCRIPT, BOTSTRAP, PHYTON**.
-
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
