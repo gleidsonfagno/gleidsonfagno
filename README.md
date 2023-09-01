@@ -1,5 +1,5 @@
 
-<h3> Sobre mim </h3>
+<h2> Sobre mim </h2>
 
 - 👨‍💻 Apaixonado por tecnologia, estou sempre em busca de soluções inovadoras e desafios inspiradores no mundo do desenvolvimento de software.
 - 🎓 Atualmente, estou investindo no meu crescimento profissional com o curso **Desenvolvedor Full Stack Python** na [EBAC Online](https://ebaconline.com.br/), onde estou aprimorando minhas habilidades para criar aplicações web de ponta a ponta.
