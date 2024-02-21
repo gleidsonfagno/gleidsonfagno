@@ -3,7 +3,7 @@
 
 - 👨‍💻 Apaixonado por tecnologia, estou sempre em busca de soluções inovadoras e desafios inspiradores no mundo do desenvolvimento de software.
 - 🎓 Atualmente, estou investindo no meu crescimento profissional com o curso **Desenvolvedor Full Stack Python** na [EBAC Online](https://ebaconline.com.br/), onde estou aprimorando minhas habilidades para criar aplicações web de ponta a ponta.
-- 🌱 Minha sede de conhecimento me impulsiona a explorar continuamente as últimas tecnologias, incluindo **HTML, CSS, JavaScript, Flutter e Python**, enquanto desenvolvo projetos significativos para consolidar minha experiência.
+- 🌱 Minha sede de conhecimento me impulsiona a explorar continuamente as últimas tecnologias, incluindo **HTML, CSS, JavaScript Node.js, React.js e Next.js**, enquanto desenvolvo projetos significativos para consolidar minha experiência.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -24,7 +24,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gleidsonfagno)](https://github.com/anuraghazra/github-readme-stats)
+
  
 ![gleidson fagno GitHub stats](https://github-readme-stats.vercel.app/api?username=gleidsonfagno&show_icons=true&theme=gruvbox)
 
