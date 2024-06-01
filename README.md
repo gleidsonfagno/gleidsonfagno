@@ -1,4 +1,6 @@
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+my+name+is+Gleidson+Fagno,;Front-end+developer)](https://git.io/typing-svg)
+
 <h2> Sobre mim </h2>
 
 - 👨‍💻 Apaixonado por tecnologia, estou sempre em busca de soluções inovadoras e desafios inspiradores no mundo do desenvolvimento de software.
