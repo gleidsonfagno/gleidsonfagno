@@ -61,15 +61,11 @@
 
 **Fortes**: HTML, CSS, Sass, JavaScript, TypeScript, React, Next.js,  Styled Components, Git.
 
-**Objetivo**
-
----
+## **Objetivo**
 
 * Desenvolvedor front-end
 
-**Projetos**
-
----
+## **Projetos**
 
 **Naped** | React, Vercel, Git | [https://naped-red.vercel.app/](https://naped-red.vercel.app/) 
 
