@@ -1,4 +1,4 @@
-
+<!--  
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+my+name+is+Gleidson+Fagno,;Front-end+developer)](https://git.io/typing-svg)
 
 <h2> Sobre mim </h2>
@@ -48,3 +48,55 @@
 
 [![Linkedin: gleidsonfagno](https://img.shields.io/badge/-gleidsonfagno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gleidson-fagno-1510a91ab)
 [![GitHub: gleidsonfagno]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/gleidsonfagno)
+-->
+
+# **Gleidson fagno da conceicao pinheiro**  
+
+[![Linkedin: gleidsonfagno](https://img.shields.io/badge/-gleidsonfagno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gleidson-fagno-1510a91ab)
+
+[Portifolio](https://www.gleidsonfagno.com.br/)
+
+**Habilidades**  
+---
+
+**Fortes**: HTML, CSS, Sass, JavaScript, TypeScript, React, Next.js,  Styled Components, Git.
+
+**Objetivo**
+
+---
+
+* Desenvolvedor front-end
+
+**Projetos**
+
+---
+
+**Naped** | React, Vercel, Git | [https://naped-red.vercel.app/](https://naped-red.vercel.app/) 
+
+*Aplicação web de um blog consumindo API fake direto no front end.*
+
+* Data Fetching para a listagem dos posts.  
+* Rotas dinâmicas.  
+* Styled Components para componentização.
+
+**Steam Redesigner** | React, styled-components, Git | [https://steam-nine-xi.vercel.app/](https://steam-nine-xi.vercel.app/)
+
+*Aplicação web de um designer da Steam.*
+
+* Site estático com listagem dos jogos.  
+* Responsivos para todas as telas.  
+* Styled Components para componentização.
+
+**Educação Profissional**
+
+---
+
+* Ensino médio completo.  
+* Desenvolvedor Full Stack python na EBAC.  
+* Analise e desenvolvimento de sistema na unifatecie (Cursando).
+
+**Pessoal**
+
+*Atualmente trabalho como cabo do exército no 51 batalhão de infantaria de selva em altamira PA.*
+
+*Estou terminando meu tecnologo em analise e desenvolvimento de sistema, EAD na unifatecie.*
