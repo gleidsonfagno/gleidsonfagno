@@ -50,49 +50,62 @@
 [![GitHub: gleidsonfagno]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/gleidsonfagno)
 -->
 
-# **Gleidson fagno da conceicao pinheiro**  
+# **Gleidson Fagno da Conceição Pinheiro**
 
-[![Linkedin: gleidsonfagno](https://img.shields.io/badge/-gleidsonfagno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gleidson-fagno-1510a91ab)
-
-[Portifolio](https://www.gleidsonfagno.com.br/)
-
-**Habilidades**  
----
-
-**Fortes**: HTML, CSS, Sass, JavaScript, TypeScript, React, Next.js,  Styled Components, Git.
-
-## **Objetivo**
-
-* Desenvolvedor front-end
-
-## **Projetos**
-
-**Naped** | React, Vercel, Git | [https://naped-red.vercel.app/](https://naped-red.vercel.app/) 
-
-*Aplicação web de um blog consumindo API fake direto no front end.*
-
-* Data Fetching para a listagem dos posts.  
-* Rotas dinâmicas.  
-* Styled Components para componentização.
-
-**Steam Redesigner** | React, styled-components, Git | [https://steam-nine-xi.vercel.app/](https://steam-nine-xi.vercel.app/)
-
-*Aplicação web de um designer da Steam.*
-
-* Site estático com listagem dos jogos.  
-* Responsivos para todas as telas.  
-* Styled Components para componentização.
-
-**Educação Profissional**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gleidson-fagno-1510a91ab)  
+🌐 [Portfólio](https://www.gleidsonfagno.com.br/)
 
 ---
 
-* Ensino médio completo.  
-* Desenvolvedor Full Stack python na EBAC.  
-* Analise e desenvolvimento de sistema na unifatecie (Cursando).
+## 🚀 Objetivo
 
-**Pessoal**
+Atuar como **Desenvolvedor Front-end**, criando interfaces performáticas, acessíveis e escaláveis com foco em experiência do usuário.
 
-*Atualmente trabalho como cabo do exército no 51 batalhão de infantaria de selva em altamira PA.*
+---
 
-*Estou terminando meu tecnologo em analise e desenvolvimento de sistema, EAD na unifatecie.*
+## 🛠️ Habilidades
+
+**Frontend:** HTML5, CSS3, Sass, JavaScript (ES6+), TypeScript  
+**Frameworks:** React, Next.js  
+**Estilização:** Styled-components, MUI (aprendendo), Responsividade  
+**Ferramentas:** Git, Vercel, Figma (consumo de design)  
+**Back-end básico:** Node.js, Express (em estudo)  
+**Outros:** GitHub Actions (CI básico), Webpack (em estudo)
+
+---
+
+## 📂 Projetos em Destaque
+
+### 🔗 [Naped](https://naped-red.vercel.app/) — React, Styled-Components, Vercel
+> Blog fictício consumindo uma API fake com foco em componentização e rotas dinâmicas.
+
+- Data fetching com integração simulada
+- Roteamento dinâmico com React Router
+- Design responsivo com Styled Components
+
+---
+
+### 🔗 [Steam Redesigner](https://steam-nine-xi.vercel.app/) — React, Styled-Components
+> Redesign da Steam com listagem de jogos e layout responsivo.
+
+- Site estático com foco em layout
+- Componentes reutilizáveis e mobile-first
+- Animações leves e organização modular
+
+---
+
+## 🎓 Formação Acadêmica
+
+- 💻 Desenvolvedor Full Stack Python — EBAC (concluído)
+- 📘 Análise e Desenvolvimento de Sistemas — Unifatecie (cursando)
+- 🎓 Ensino Médio completo
+
+---
+
+## 👨‍💻 Sobre mim
+
+Atualmente atuo como **Cabo do Exército** no 51º Batalhão de Infantaria de Selva — Altamira/PA.  
+Paralelamente, dedico-me a desenvolver projetos com foco em aplicações web modernas e acessíveis, e estou em transição para o mercado de tecnologia como desenvolvedor front-end.
+
+---
+
