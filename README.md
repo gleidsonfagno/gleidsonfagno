@@ -53,52 +53,45 @@
 # **Gleidson Fagno da Conceição Pinheiro**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gleidson-fagno-1510a91ab)  
-🌐 [Portfólio](https://www.gleidsonfagno.com.br/)
+[Portfólio](https://www.gleidsonfagno.com.br/)
 
 ---
 
-## 🚀 Objetivo
+## Objetivo
 
 Atuar como **Desenvolvedor Front-end**, criando interfaces performáticas, acessíveis e escaláveis com foco em experiência do usuário.
 
 ---
 
-## 🛠️ Habilidades
+## ⚡ Technologies
 
-**Frontend:** HTML5, CSS3, Sass, JavaScript (ES6+), TypeScript  
-**Frameworks:** React, Next.js  
-**Estilização:** Styled-components, MUI (aprendendo), Responsividade  
-**Ferramentas:** Git, Vercel, Figma (consumo de design)  
-**Back-end básico:** Node.js, Express (em estudo)  
-**Outros:** GitHub Actions (CI básico), Webpack (em estudo)
+Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
----
+Database:
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## 📂 Projetos em Destaque
+Tools:
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-### 🔗 [Naped](https://naped-red.vercel.app/) — React, Styled-Components, Vercel
-> Blog fictício consumindo uma API fake com foco em componentização e rotas dinâmicas.
-
-- Data fetching com integração simulada
-- Roteamento dinâmico com React Router
-- Design responsivo com Styled Components
-
----
-
-### 🔗 [Steam Redesigner](https://steam-nine-xi.vercel.app/) — React, Styled-Components
-> Redesign da Steam com listagem de jogos e layout responsivo.
-
-- Site estático com foco em layout
-- Componentes reutilizáveis e mobile-first
-- Animações leves e organização modular
+IDEs:
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🎓 Formação Acadêmica
+## Formação Acadêmica
 
-- 💻 Desenvolvedor Full Stack Python — EBAC (concluído)
-- 📘 Análise e Desenvolvimento de Sistemas — Unifatecie (cursando)
-- 🎓 Ensino Médio completo
+- Desenvolvedor Full Stack Python — EBAC (concluído)
+- Análise e Desenvolvimento de Sistemas — Unifatecie (cursando)
+- Ensino Médio completo
 
 ---
 
