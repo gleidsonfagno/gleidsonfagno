@@ -68,7 +68,7 @@ Atualmente estudo e desenvolvo projetos práticos em tecnologias modernas como R
 
 ## Contato
 
-📬 [gleidsonfagner81@gmail.com](mailto:gleidsonfagner81@gmail.com)  
+📬 [gleidsonfagner81@gmail.com](mailto:gleidsonfagner838@gmail.com)  
 📍 Altamira — Pará, Brasil  
 🔗 [LinkedIn](https://www.linkedin.com/in/gleidson-fagno-1510a91ab)  
 🌐 [Portfólio](https://www.gleidsonfagno.com.br)
