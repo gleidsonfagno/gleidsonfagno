@@ -1,5 +1,6 @@
-<!-- Header animado -->
+<!-- Header animado 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Olá%2C+me+chamo+Gleidson+Fagno!;Sou+Desenvolvedor+Front-end.;Seja+bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+-->
 
 # Gleidson Fagno da Conceição Pinheiro
 
@@ -7,15 +8,13 @@
 [![Portfolio](https://img.shields.io/badge/-Portf%C3%B3lio-000?style=flat-square&logo=firefox&logoColor=white)](https://www.gleidsonfagno.com.br/)
 [![GitHub Followers](https://img.shields.io/github/followers/gleidsonfagno?label=Follow&style=social)](https://github.com/gleidsonfagno)
 
----
 
+<!--
 ## Objetivo
 
 Atuar como **Desenvolvedor Front-end**, criando interfaces performáticas, acessíveis e escaláveis com foco em experiência do usuário.
-
+-->
 ---
-
-## Tecnologias
 
 ### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -45,23 +44,14 @@ Atuar como **Desenvolvedor Front-end**, criando interfaces performáticas, acess
 
 ---
 
-## Sobre mim
-
-Sou **Cabo do Exército Brasileiro** no 51º Batalhão de Infantaria de Selva em Altamira/PA.  
-Tenho grande entusiasmo por tecnologia e estou em **transição de carreira** para me tornar um desenvolvedor front-end profissional.  
-Atualmente estudo e desenvolvo projetos práticos em tecnologias modernas como React.js, TypeScript e Next.js.
-
----
-
+<!--
 ## Estatísticas
+-->
 
-### GitHub Stats
 ![Gleidson GitHub stats](https://github-readme-stats.vercel.app/api?username=gleidsonfagno&show_icons=true&theme=gruvbox)
 
-### LeetCode
 [![LeetCode Stats](https://leetcard.jacoblin.cool/gleidsonfagno?ext=heatmap&theme=dark)](https://leetcode.com/u/gleidsonfagno/)
 
-### HackerRank
 [![HackerRank Badge](https://hackerrank-badges.vercel.app/gleidsonfagner81)](https://www.hackerrank.com/profile/gleidsonfagner81)
 
 ---
