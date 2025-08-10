@@ -58,7 +58,7 @@ Atuar como **Desenvolvedor Front-end**, criando interfaces performáticas, acess
 
 ## Contato
 
-📬 [gleidsonfagner81@gmail.com](mailto:gleidsonfagner838@gmail.com)  
+📬 [gleidsonfagner838@gmail.com](mailto:gleidsonfagner838@gmail.com)  
 📍 Altamira — Pará, Brasil  
 🔗 [LinkedIn](https://www.linkedin.com/in/gleidson-fagno-1510a91ab)  
 🌐 [Portfólio](https://www.gleidsonfagno.com.br)
