@@ -4,7 +4,7 @@
 
 # Gleidson Fagno da Conceição Pinheiro
 
-Desenvolvedor Front-end com foco em React e TypeScript, criando interfaces acessíveis, responsivas e bem estruturadas. 
+Desenvolvedor Front-end com foco em React e TypeScript. 
 Atualmente expandindo conhecimentos em back-end e banco de dados para aplicações fullstack.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gleidson-fagno-1510a91ab)
