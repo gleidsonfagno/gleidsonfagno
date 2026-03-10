@@ -44,19 +44,17 @@ Atuar como **Desenvolvedor Front-end**, criando interfaces performáticas, acess
 
 ---
 
+<!--
 ## Formação Acadêmica
 
 - Desenvolvedor Full Stack Python — EBAC (concluído)
 - Análise e Desenvolvimento de Sistemas — Unifatecie (cursando)
 - Ensino Médio completo
 
----
-
-<!--
 ## Estatísticas
+[![LeetCode Stats](https://leetcard.jacoblin.cool/gleidsonfagno?ext=heatmap&theme=dark)](https://leetcode.com/u/gleidsonfagno/)
 -->
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/gleidsonfagno?ext=heatmap&theme=dark)](https://leetcode.com/u/gleidsonfagno/)
 
 <!-- [![HackerRank Badge](https://hackerrank-badges.vercel.app/gleidsonfagner81)](https://www.hackerrank.com/profile/gleidsonfagner81) -->
 
